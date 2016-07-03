@@ -170,7 +170,7 @@ void show_book()
 }
 		
 	
-/*	void search(char n[]) //specific book search ki hai
+	void search(char n[]) //specific book search ki hai
 	{
 		
 		//string ch;
@@ -196,11 +196,11 @@ void show_book()
 		in.close();
 			
 	}
-*/
+
 
 };
 
-/*int login(void)
+int login(void) //login function for user and librain 
 {
 again:
 	char name[10];
@@ -291,7 +291,7 @@ if(str == '2')
 	}
 
 }		
-*/
+
 
 
 int main()
